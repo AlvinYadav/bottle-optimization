@@ -2,6 +2,9 @@
 
 # Bottle Shape Optimization - README
 
+## Streamlit Link:
+https://alvinyadav-bottle-optimization-home-uqzmvh.streamlit.app/
+
 ## Overview
 This project implements an optimization tool to determine the most efficient bottle shape with a given volume, subject to constraints on maximum height and side length. The program computes and visualizes various bottle shapes to minimize surface area, which can be useful in packaging and material conservation applications. The shapes included are:
 
