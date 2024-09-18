@@ -40,7 +40,7 @@ To run the optimization tool, use the following steps:
 1. Clone the repository and navigate to the project directory.
 2. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run Home.py
    ```
 3. Use the web interface to input the desired **volume**, **maximum height**, and **maximum side length**.
 4. View the optimization results in tabular form, which includes:
