@@ -2,7 +2,7 @@
 
 # Bottle Shape Optimization - README
 
-## Streamlit Link:
+## Web Link:
 https://alvinyadav-bottle-optimization-home-uqzmvh.streamlit.app/
 
 ## Overview
